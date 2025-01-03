@@ -1,3 +1,4 @@
+![Showcase Image](media/DataEx-Microsoft-Partner.png)
 ![Showcase Image](media/showcase.png)
 
 # Fabric DREAM PoC Accelerator Setup Guide
