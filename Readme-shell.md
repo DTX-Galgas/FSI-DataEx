@@ -912,88 +912,10 @@ This section is optional and created to showcase other data ingestion options. U
 
 	![Pipeline.](media/pipeline-11.png)
 
-13. Similarly **create** another pipeline with the name "01 Campaigns data from Snowflake to Lakehouse - Low Code Experience"
-
-14. Once the pipeline is created **click** on 'Lookup'. 
-
-	![Pipeline.](media/pipeline-12.png)
-
-15. In 'General' tab of the Lookup activity **enter** 'Name' as "Check if Snowflake Campaign Data exist" and 'Description' as "GetMetadata activity is used to ensure the source dataset is ready for downstream consumption, before triggering the copy and analytics job."
-
-	![Pipeline.](media/pipeline-13.png)
-
-16. In the 'Settings' tab **select** the External radio button, and **click** 'New'.
-
-	![Pipeline.](media/pipeline-14.png)
-
-17. In the 'New connection' pop-up window, **scroll down** to **select** 'Snowflake' and **click** 'Continue'.
-
-	![Pipeline.](media/pipeline-15.png)
-
-18. **Enter** your Server, Warehouse, Username, and Password for Snowflake if available.
-
-	![Pipeline.](media/pipeline-16.png)	
-
-	![Pipeline.](media/pipeline-17.png)	
-
-19. Once your connection setup is done, **enter** the details as shown.
-
-	![Pipeline.](media/pipeline-18.png)	
-
-20. **Click** 'Copy data activity' and **select** 'Add to canvas'.
-
-	![Pipeline.](media/pipeline-19.png)	
-
-21. In the 'General' tab **enter** 'Name' as 'SnowflakeDB To Lakehouse'.
-
-	![Pipeline.](media/pipeline-20.png)	
-
-22. **Enter** the values in the 'Source' tab.
-
-	![Pipeline.](media/pipeline-21.png)	
-
-23. **Enter** the values in the 'Destination' tab.
-
-	![Pipeline.](media/pipeline-22.png)	
-
-24. **Click** the 'green tick' on the Lookup and drag it to Copy data as shown in the screenshot.
-
-	![Pipeline.](media/pipeline-23.png)
-
-### Creating a Resource Group
-
-1. **Log into** the [Azure Portal](https://portal.azure.com) using your Azure credentials.
-
-2. On the Azure Portal home screen, **select** the '+ Create a resource' tile.
-
-	![A portion of the Azure Portal home screen is displayed with the + Create a resource tile highlighted.](media/create-a-resource.png)
-
-3. In the Search the Marketplace text box, **type** "Resource Group" and **press** the Enter key.
-
-	![On the new resource screen Resource group is entered as a search term.](media/resource-group.png)
-
-4. **Select** the 'Create' button on the 'Resource Group' overview page.
-
-	![A portion of the Azure Portal home screen is displayed with Create Resource Group tile](media/resource-group-2.png)
-	
-5. On the 'Create a resource group' screen, **select** your desired Subscription. For Resource group, **type** 'cloudshell-dpoc'. 
-
-6. **Select** your desired region.
-
-	> **Note:** Some services behave differently in different regions and may break some part of the setup. Choosing one of the following regions is preferable: 		westus2, eastus2, northcentralus, northeurope, southeastasia, australliaeast, centralindia, uksouth, japaneast.
-
-7. **Click** the 'Review + Create' button.
-
-	![The Create a resource group form is displayed populated with Synapse-MCW as the resource group name.](media/resource-group-3.png)
-
-8. **Click** the 'Create' button once all entries have been validated.
-
-	![Create Resource Group with the final validation passed.](media/resource-group-4.png)
-
 
 # Copyright
 
-© 2023 Microsoft Corporation. All rights reserved.   
+© 2025 Microsoft Corporation. All rights reserved.   
 
 By using this demo/lab, you agree to the following terms: 
 
