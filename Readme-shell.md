@@ -1,7 +1,7 @@
 ![Showcase Image](media/DataEx-Microsoft-Partner.png)
-![Showcase Image](media/showcase.png)
 
-# Fabric DREAM PoC Accelerator Setup Guide
+
+# Fabric HandsOn Accelerator Setup Guide
 
 ## What is DPoC?
 DREAM PoC Accelerators (DPoC) are packaged DREAM Demos using ARM templates and automation scripts (with a demo web application, Power BI reports, Fabric resources, ML Notebooks etc.) that can be deployed in a customer’s environment.
