@@ -485,7 +485,7 @@ step 28 finally **click** on the 'Next' button.
 
 	![Datawarehouse.](media/warehouse-18.1.png)
 
-33. **Click** on [Warehouse Scripts](https://github.com/microsoft/Azure-Analytics-and-AI-Engagement/tree/microsoftfabric/fabric/artifacts/warehousescripts) link to open the scripts.
+33. **Click** on [Warehouse Scripts](https://github.com/DTX-Galgas/FSI-DataEx/tree/main/artifacts/warehousescripts) link to open the scripts.
 
 34. **Click** the first script to open it.
 
