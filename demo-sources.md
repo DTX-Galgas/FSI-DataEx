@@ -1,8 +1,8 @@
-# Configurações de Conexão
+# Connection settings for the datasource
 
 ## Endpoint - Data Lake Storage
 - **URL:** `https://storagevopdm1z.dfs.core.windows.net/`
-- **Key:** `**********************************************************`
+- **Key:** `sv=2022-11-02&ss=bfqt&srt=sco&sp=rlx&se=2025-04-06T02:06:46Z&st=2025-01-19T18:06:46Z&spr=https&sig=YEpt4X6uoaWAF0vzdqFcx9N6DeMrE4zz48%2Fo1teL0bc%3D`
 
 ---
 
@@ -10,7 +10,7 @@
 
 - **STORAGE_ACCOUNT_NAME:** `Storagevopdm1z`
 - **SAS Token:**
-  `*****************************************************************************`
+  `sv=2022-11-02&ss=bfqt&srt=sco&sp=rlx&se=2025-04-06T02:06:46Z&st=2025-01-19T18:06:46Z&spr=https&sig=YEpt4X6uoaWAF0vzdqFcx9N6DeMrE4zz48%2Fo1teL0bc%3D`
 
 ---
 
@@ -25,4 +25,4 @@
 - **Server:** `mssqlvopdm1z.database.windows.net`
 - **Database:** `SalesDb`
 - **User:** `CloudSA`
-- **Password:** `*********`
+- **Password:** `DataEx001!`
