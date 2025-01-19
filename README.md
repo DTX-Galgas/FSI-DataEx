@@ -1,3 +1,6 @@
+![Showcase Image](media/DataEx-Microsoft-Partner.png)
+
+
 # Microsoft Fabric Hands-On for FSI 2025
 
 ## What is it?
