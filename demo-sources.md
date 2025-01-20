@@ -2,7 +2,7 @@
 
 ## Endpoint - Data Lake Storage
 - **URL:** `https://storagevopdm1z.dfs.core.windows.net/`
-- **Key:** `sv=2022-11-02&ss=bfqt&srt=sco&sp=rlx&se=2025-04-06T02:06:46Z&st=2025-01-19T18:06:46Z&spr=https&sig=YEpt4X6uoaWAF0vzdqFcx9N6DeMrE4zz48%2Fo1teL0bc%3D`
+- **SAS Token:** `sv=2022-11-02&ss=bfqt&srt=sco&sp=rlx&se=2025-04-06T02:06:46Z&st=2025-01-19T18:06:46Z&spr=https&sig=YEpt4X6uoaWAF0vzdqFcx9N6DeMrE4zz48%2Fo1teL0bc%3D`
 
 ---
 
