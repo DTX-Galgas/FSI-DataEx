@@ -21,9 +21,8 @@ Participants will have the opportunity to:
 
 ## :exclamation: IMPORTANT NOTES:
 
-1. **Please review the [license agreement](https://github.com/microsoft/Azure-Analytics-and-AI-Engagement/blob/main/CDP-Retail/license.md) and [disclaimer](https://github.com/microsoft/Azure-Analytics-and-AI-Engagement/blob/main/CDP-Retail/disclaimer.md) before using any material in this repository.**
-2. This training involves deploying resources in Microsoft Fabric, which may incur **Azure hosting costs**. These costs are not covered by Microsoft or DataEx for the purposes of this training.
-3. Follow best practices for **security and compliance** before introducing any sensitive data into the environment. Refer to the **Azure Security Center** for guidance.
+1. This training involves deploying resources in Microsoft Fabric, which may incur **Azure hosting costs**. These costs are not covered by Microsoft or DataEx for the purposes of this training.
+2. Follow best practices for **security and compliance** before introducing any sensitive data into the environment. Refer to the **Azure Security Center** for guidance.
 
 ## Disclaimer
 
