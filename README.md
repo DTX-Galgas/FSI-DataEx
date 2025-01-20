@@ -45,4 +45,4 @@ We welcome your feedback to improve the quality of our training. Please contact 
 
 ## Contributing
 
-This repository adheres to the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information, please refer to the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or reach out to **[opencode@microsoft.com](mailto:opencode@microsoft.com)** for assistance.
+This repository adheres to the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information, please refer to the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/).
