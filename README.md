@@ -30,7 +30,6 @@ The resources and materials provided in this repository are for educational purp
 
 Any technology or solutions demonstrated here are subject to change and are not indicative of future Microsoft product releases or updates.
 
-By using the resources in this repository, you agree to the terms outlined in the [license agreement](https://github.com/microsoft/Azure-Analytics-and-AI-Engagement/blob/main/CDP-Retail/license.md).
 
 ## Copyright
 
