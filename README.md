@@ -41,7 +41,7 @@ You may only use the resources in this repository for the purpose of this traini
 
 ## Feedback
 
-We welcome your feedback to improve the quality of our training. Please contact us at **[dataex-support@microsoft.com](mailto:dataex-support@microsoft.com)** for any questions or suggestions.
+We welcome your feedback to improve the quality of our training. Please contact us at **[support@dataex.com.br](mailto:suporte@dataex.com.br)** for any questions or suggestions.
 
 ## Contributing
 
