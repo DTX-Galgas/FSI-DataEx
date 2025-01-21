@@ -16,8 +16,8 @@
 
 ## AWS S3
 - **URL:** `https://datalakedemodtx.s3.sa-east-1.amazonaws.com/`
-- **Access Key ID:** `***********************`
-- **Secret Access Key:** `**********************************`
+- **Access Key ID:** `AKIAVRUVWO5RK5VCUITM`
+- **Secret Access Key:** `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`
 
 ---
 
